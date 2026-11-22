@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.rebornac.forjafit",
+      "sha256_cert_fingerprints": [
+        "A7:E7:F7:AB:44:83:23:C1:79:49:5A:C5:73:71:DC:15:01:1C:B6:DE:7F:B6:B7:56:35:29:F9:7C:F6:20:EF:83"
+      ]
+    }
+  }
+]
