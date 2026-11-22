@@ -1,0 +1,2703 @@
+{
+  "defaultPlan": {
+    "id": "meu-plano-abcd",
+    "name": "Meu plano",
+    "level": "Intermediário",
+    "location": "Academia Grande",
+    "days": [
+      {
+        "id": "dia-1",
+        "label": "DIA 1",
+        "title": "Peito, Ombros e Tríceps",
+        "completed": false,
+        "exercises": [
+          {
+            "exerciseId": "supino-reto-com-barra",
+            "restSeconds": 90,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 50
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 50
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 50
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 50
+              }
+            ]
+          },
+          {
+            "exerciseId": "crucifixo-peitoral-na-maquina",
+            "restSeconds": 90,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 60
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 60
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 60
+              }
+            ]
+          },
+          {
+            "exerciseId": "supino-inclinado-na-maquina",
+            "restSeconds": 90,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 40
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 40
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 40
+              }
+            ]
+          },
+          {
+            "exerciseId": "desenvolvimento-sentado-com-halteres",
+            "restSeconds": 90,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 14
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 14
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 14
+              }
+            ]
+          },
+          {
+            "exerciseId": "triceps-na-polia-com-corda",
+            "restSeconds": 75,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 45
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 45
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 45
+              }
+            ]
+          },
+          {
+            "exerciseId": "elevacao-lateral-com-halteres",
+            "restSeconds": 60,
+            "optional": true,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 7
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 7
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dia-2",
+        "label": "DIA 2",
+        "title": "Costas, Bíceps e Posterior de Ombro",
+        "completed": false,
+        "exercises": [
+          {
+            "exerciseId": "puxada-aberta-pegada-pronada",
+            "restSeconds": 90,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 50
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 50
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 50
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 50
+              }
+            ]
+          },
+          {
+            "exerciseId": "remada-baixa-sentada-pegada-neutra",
+            "restSeconds": 90,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 55
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 55
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 55
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 55
+              }
+            ]
+          },
+          {
+            "exerciseId": "remada-serrote",
+            "restSeconds": 75,
+            "optional": false,
+            "unilateral": true,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 22
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 22
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 22
+              }
+            ]
+          },
+          {
+            "exerciseId": "crucifixo-inverso-na-maquina",
+            "restSeconds": 60,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 35
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 35
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 35
+              }
+            ]
+          },
+          {
+            "exerciseId": "rosca-direta-com-barra-w",
+            "restSeconds": 75,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 24
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 24
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 24
+              }
+            ]
+          },
+          {
+            "exerciseId": "rosca-martelo-com-halteres",
+            "restSeconds": 60,
+            "optional": true,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 12
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 12
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dia-3",
+        "label": "DIA 3",
+        "title": "Pernas Completo (Quadríceps e Posteriores)",
+        "completed": false,
+        "exercises": [
+          {
+            "exerciseId": "agachamento-livre",
+            "restSeconds": 120,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 60
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 60
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 60
+              },
+              {
+                "type": "normal",
+                "reps": 8,
+                "weight": 60
+              }
+            ]
+          },
+          {
+            "exerciseId": "leg-press-45",
+            "restSeconds": 120,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 140
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 140
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 140
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 140
+              }
+            ]
+          },
+          {
+            "exerciseId": "cadeira-extensora",
+            "restSeconds": 75,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 50
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 50
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 50
+              }
+            ]
+          },
+          {
+            "exerciseId": "cadeira-flexora",
+            "restSeconds": 75,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 45
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 45
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 45
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 45
+              }
+            ]
+          },
+          {
+            "exerciseId": "stiff-com-barra",
+            "restSeconds": 90,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 40
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 40
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 40
+              }
+            ]
+          },
+          {
+            "exerciseId": "panturrilha-sentado",
+            "restSeconds": 60,
+            "optional": true,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 15,
+                "weight": 40
+              },
+              {
+                "type": "normal",
+                "reps": 15,
+                "weight": 40
+              },
+              {
+                "type": "normal",
+                "reps": 15,
+                "weight": 40
+              },
+              {
+                "type": "normal",
+                "reps": 15,
+                "weight": 40
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dia-4",
+        "label": "DIA 4",
+        "title": "Superior Foco Ombros, Braços e Core",
+        "completed": false,
+        "exercises": [
+          {
+            "exerciseId": "desenvolvimento-na-maquina",
+            "restSeconds": 90,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 35
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 35
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 35
+              },
+              {
+                "type": "normal",
+                "reps": 10,
+                "weight": 35
+              }
+            ]
+          },
+          {
+            "exerciseId": "elevacao-lateral-na-polia-unilateral",
+            "restSeconds": 60,
+            "optional": false,
+            "unilateral": true,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 7.5
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 7.5
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 7.5
+              }
+            ]
+          },
+          {
+            "exerciseId": "rosca-bayesian-na-polia-unilateral",
+            "restSeconds": 60,
+            "optional": false,
+            "unilateral": true,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 12.5
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 12.5
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 12.5
+              }
+            ]
+          },
+          {
+            "exerciseId": "triceps-testa-corda-na-polia",
+            "restSeconds": 60,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 30
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 30
+              },
+              {
+                "type": "normal",
+                "reps": 12,
+                "weight": 30
+              }
+            ]
+          },
+          {
+            "exerciseId": "abdominal-em-pe-na-polia",
+            "restSeconds": 60,
+            "optional": false,
+            "unilateral": false,
+            "note": "",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 15,
+                "weight": 35
+              },
+              {
+                "type": "normal",
+                "reps": 15,
+                "weight": 35
+              },
+              {
+                "type": "normal",
+                "reps": 15,
+                "weight": 35
+              }
+            ]
+          },
+          {
+            "exerciseId": "prancha-frontal",
+            "restSeconds": 60,
+            "optional": true,
+            "unilateral": false,
+            "note": "Segundos por série",
+            "sets": [
+              {
+                "type": "normal",
+                "reps": 45,
+                "weight": 0
+              },
+              {
+                "type": "normal",
+                "reps": 45,
+                "weight": 0
+              },
+              {
+                "type": "normal",
+                "reps": 45,
+                "weight": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "quickWorkouts": [
+    {
+      "id": "qw-peito-triceps",
+      "title": "Explosão de Máquina para Peito e Tríceps",
+      "level": "Intermediário",
+      "durationMin": 50,
+      "location": "Academia Grande",
+      "muscles": [
+        "Peito",
+        "Tríceps"
+      ],
+      "exercises": [
+        {
+          "exerciseId": "supino-reto-na-maquina",
+          "restSeconds": 90,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 50
+            }
+          ]
+        },
+        {
+          "exerciseId": "supino-inclinado-na-maquina",
+          "restSeconds": 90,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 40
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 40
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 40
+            }
+          ]
+        },
+        {
+          "exerciseId": "crucifixo-peitoral-na-maquina",
+          "restSeconds": 75,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 55
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 55
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 55
+            }
+          ]
+        },
+        {
+          "exerciseId": "triceps-na-polia-com-barra-reta",
+          "restSeconds": 75,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 40
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 40
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 40
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 40
+            }
+          ]
+        },
+        {
+          "exerciseId": "triceps-testa-corda-na-polia",
+          "restSeconds": 60,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 30
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 30
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qw-ombros-largos",
+      "title": "Ombros Fortes e Largos",
+      "level": "Intermediário",
+      "durationMin": 45,
+      "location": "Academia Grande",
+      "muscles": [
+        "Ombros"
+      ],
+      "exercises": [
+        {
+          "exerciseId": "desenvolvimento-sentado-com-halteres",
+          "restSeconds": 90,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 14
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 14
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 14
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 14
+            }
+          ]
+        },
+        {
+          "exerciseId": "elevacao-lateral-com-halteres",
+          "restSeconds": 60,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 8
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 8
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 8
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 8
+            }
+          ]
+        },
+        {
+          "exerciseId": "elevacao-lateral-na-polia-unilateral",
+          "restSeconds": 60,
+          "optional": false,
+          "unilateral": true,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 7.5
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 7.5
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 7.5
+            }
+          ]
+        },
+        {
+          "exerciseId": "crucifixo-inverso-na-maquina",
+          "restSeconds": 60,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 35
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 35
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 35
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 35
+            }
+          ]
+        },
+        {
+          "exerciseId": "face-pull-em-pe-com-corda-na-polia",
+          "restSeconds": 60,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 25
+            },
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 25
+            },
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qw-costas-biceps",
+      "title": "Costas em V e Bíceps",
+      "level": "Intermediário",
+      "durationMin": 50,
+      "location": "Academia Grande",
+      "muscles": [
+        "Costas",
+        "Bíceps"
+      ],
+      "exercises": [
+        {
+          "exerciseId": "puxada-aberta-pegada-pronada",
+          "restSeconds": 90,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 50
+            }
+          ]
+        },
+        {
+          "exerciseId": "remada-curvada-pegada-pronada",
+          "restSeconds": 90,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 8,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 8,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 8,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 8,
+              "weight": 50
+            }
+          ]
+        },
+        {
+          "exerciseId": "pulldown-com-barra-reta",
+          "restSeconds": 75,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 35
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 35
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 35
+            }
+          ]
+        },
+        {
+          "exerciseId": "rosca-direta-com-barra-w",
+          "restSeconds": 75,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 24
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 24
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 24
+            }
+          ]
+        },
+        {
+          "exerciseId": "rosca-bayesian-na-polia-unilateral",
+          "restSeconds": 60,
+          "optional": false,
+          "unilateral": true,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 12.5
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 12.5
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 12.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qw-pernas-forca",
+      "title": "Pernas e Glúteos de Aço",
+      "level": "Avançado",
+      "durationMin": 60,
+      "location": "Academia Grande",
+      "muscles": [
+        "Quadríceps",
+        "Posteriores",
+        "Glúteos"
+      ],
+      "exercises": [
+        {
+          "exerciseId": "agachamento-livre",
+          "restSeconds": 120,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 8,
+              "weight": 70
+            },
+            {
+              "type": "normal",
+              "reps": 8,
+              "weight": 70
+            },
+            {
+              "type": "normal",
+              "reps": 8,
+              "weight": 70
+            },
+            {
+              "type": "normal",
+              "reps": 8,
+              "weight": 70
+            }
+          ]
+        },
+        {
+          "exerciseId": "agachamento-bulgaro-no-smith",
+          "restSeconds": 90,
+          "optional": false,
+          "unilateral": true,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 30
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 30
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 30
+            }
+          ]
+        },
+        {
+          "exerciseId": "elevacao-pelvica-com-barra",
+          "restSeconds": 90,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 80
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 80
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 80
+            },
+            {
+              "type": "normal",
+              "reps": 10,
+              "weight": 80
+            }
+          ]
+        },
+        {
+          "exerciseId": "mesa-flexora",
+          "restSeconds": 75,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 40
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 40
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 40
+            }
+          ]
+        },
+        {
+          "exerciseId": "panturrilha-em-pe-no-smith",
+          "restSeconds": 60,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 50
+            },
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qw-casa-halteres",
+      "title": "Full Body em Casa (Halteres)",
+      "level": "Iniciante",
+      "durationMin": 35,
+      "location": "Casa / Halteres",
+      "muscles": [
+        "Peito",
+        "Costas",
+        "Quadríceps",
+        "Abdômen"
+      ],
+      "exercises": [
+        {
+          "exerciseId": "agachamento-goblet-com-halteres",
+          "restSeconds": 75,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 14
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 14
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 14
+            }
+          ]
+        },
+        {
+          "exerciseId": "flexao-de-braco",
+          "restSeconds": 75,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 0
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 0
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 0
+            }
+          ]
+        },
+        {
+          "exerciseId": "remada-curvada-com-halteres",
+          "restSeconds": 75,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 12
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 12
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 12
+            }
+          ]
+        },
+        {
+          "exerciseId": "elevacao-lateral-com-halteres",
+          "restSeconds": 60,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 6
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 6
+            },
+            {
+              "type": "normal",
+              "reps": 12,
+              "weight": 6
+            }
+          ]
+        },
+        {
+          "exerciseId": "abdominal-supra-no-solo",
+          "restSeconds": 45,
+          "optional": false,
+          "unilateral": false,
+          "note": "",
+          "sets": [
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 0
+            },
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 0
+            },
+            {
+              "type": "normal",
+              "reps": 15,
+              "weight": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "planTemplates": [
+    {
+      "id": "tpl-ppl-3d",
+      "name": "Push / Pull / Legs (3 Dias)",
+      "level": "Intermediário",
+      "location": "Academia Grande",
+      "daysPerWeek": 3,
+      "description": "Divisão clássica de hipertrofia separando Empurrar, Puxar e Pernas.",
+      "days": [
+        {
+          "id": "ppl-1",
+          "label": "DIA 1",
+          "title": "Push (Peito, Ombro, Tríceps)",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "supino-reto-com-barra",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 50
+                }
+              ]
+            },
+            {
+              "exerciseId": "supino-inclinado-com-halteres",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 20
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 20
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 20
+                }
+              ]
+            },
+            {
+              "exerciseId": "desenvolvimento-sentado-com-halteres",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 14
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 14
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 14
+                }
+              ]
+            },
+            {
+              "exerciseId": "elevacao-lateral-com-halteres",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 8
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 8
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 8
+                }
+              ]
+            },
+            {
+              "exerciseId": "triceps-na-polia-com-corda",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ppl-2",
+          "label": "DIA 2",
+          "title": "Pull (Costas, Posterior, Bíceps)",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "puxada-aberta-pegada-pronada",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                }
+              ]
+            },
+            {
+              "exerciseId": "remada-sentado-na-maquina",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                }
+              ]
+            },
+            {
+              "exerciseId": "crucifixo-inverso-na-maquina",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                }
+              ]
+            },
+            {
+              "exerciseId": "rosca-direta-com-barra-w",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 24
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 24
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 24
+                }
+              ]
+            },
+            {
+              "exerciseId": "rosca-martelo-com-halteres",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 12
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 12
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ppl-3",
+          "label": "DIA 3",
+          "title": "Legs (Pernas Completo)",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "agachamento-livre",
+              "restSeconds": 120,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 60
+                }
+              ]
+            },
+            {
+              "exerciseId": "leg-press-45",
+              "restSeconds": 120,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 140
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 140
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 140
+                }
+              ]
+            },
+            {
+              "exerciseId": "cadeira-flexora",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 45
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 45
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 45
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 45
+                }
+              ]
+            },
+            {
+              "exerciseId": "cadeira-extensora",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 50
+                }
+              ]
+            },
+            {
+              "exerciseId": "panturrilha-sentado",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 40
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 40
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 40
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 40
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tpl-ul-4d",
+      "name": "Upper / Lower Força & Hipertrofia (4 Dias)",
+      "level": "Avançado",
+      "location": "Academia Grande",
+      "daysPerWeek": 4,
+      "description": "Alta frequência (2x por músculo na semana) balanceando compostos e isoladores.",
+      "days": [
+        {
+          "id": "ul-1",
+          "label": "DIA 1",
+          "title": "Upper A (Foco Força)",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "supino-reto-com-barra",
+              "restSeconds": 120,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 6,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 6,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 6,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 6,
+                  "weight": 60
+                }
+              ]
+            },
+            {
+              "exerciseId": "remada-curvada-pegada-pronada",
+              "restSeconds": 120,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 55
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 55
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 55
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 55
+                }
+              ]
+            },
+            {
+              "exerciseId": "desenvolvimento-em-pe-com-barra",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 8,
+                  "weight": 35
+                }
+              ]
+            },
+            {
+              "exerciseId": "puxada-com-triangulo-pegada-neutra",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 50
+                }
+              ]
+            },
+            {
+              "exerciseId": "rosca-direta-com-barra-reta",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 24
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 24
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 24
+                }
+              ]
+            },
+            {
+              "exerciseId": "triceps-na-polia-com-barra-reta",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 40
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 40
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 40
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ul-2",
+          "label": "DIA 2",
+          "title": "Lower A (Foco Quadríceps)",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "agachamento-livre",
+              "restSeconds": 150,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 6,
+                  "weight": 70
+                },
+                {
+                  "type": "normal",
+                  "reps": 6,
+                  "weight": 70
+                },
+                {
+                  "type": "normal",
+                  "reps": 6,
+                  "weight": 70
+                },
+                {
+                  "type": "normal",
+                  "reps": 6,
+                  "weight": 70
+                }
+              ]
+            },
+            {
+              "exerciseId": "leg-press-45",
+              "restSeconds": 120,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 150
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 150
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 150
+                }
+              ]
+            },
+            {
+              "exerciseId": "cadeira-extensora",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 55
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 55
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 55
+                }
+              ]
+            },
+            {
+              "exerciseId": "mesa-flexora",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 40
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 40
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 40
+                }
+              ]
+            },
+            {
+              "exerciseId": "panturrilha-no-leg-press-45",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 100
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 100
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 100
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ul-3",
+          "label": "DIA 3",
+          "title": "Upper B (Foco Hipertrofia)",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "supino-inclinado-com-halteres",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 22
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 22
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 22
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 22
+                }
+              ]
+            },
+            {
+              "exerciseId": "remada-baixa-sentada-pegada-neutra",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 55
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 55
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 55
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 55
+                }
+              ]
+            },
+            {
+              "exerciseId": "crucifixo-peitoral-na-maquina",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 60
+                }
+              ]
+            },
+            {
+              "exerciseId": "elevacao-lateral-na-polia-unilateral",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": true,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 7.5
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 7.5
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 7.5
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 7.5
+                }
+              ]
+            },
+            {
+              "exerciseId": "rosca-bayesian-na-polia-unilateral",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": true,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 12.5
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 12.5
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 12.5
+                }
+              ]
+            },
+            {
+              "exerciseId": "triceps-testa-corda-na-polia",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ul-4",
+          "label": "DIA 4",
+          "title": "Lower B (Foco Posterior e Glúteos)",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "levantamento-terra",
+              "restSeconds": 150,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 5,
+                  "weight": 80
+                },
+                {
+                  "type": "normal",
+                  "reps": 5,
+                  "weight": 80
+                },
+                {
+                  "type": "normal",
+                  "reps": 5,
+                  "weight": 80
+                }
+              ]
+            },
+            {
+              "exerciseId": "elevacao-pelvica-com-barra",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 80
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 80
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 80
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 80
+                }
+              ]
+            },
+            {
+              "exerciseId": "agachamento-bulgaro-com-halteres",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": true,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 14
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 14
+                },
+                {
+                  "type": "normal",
+                  "reps": 10,
+                  "weight": 14
+                }
+              ]
+            },
+            {
+              "exerciseId": "cadeira-flexora",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 45
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 45
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 45
+                }
+              ]
+            },
+            {
+              "exerciseId": "abdominal-em-pe-na-polia",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 35
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tpl-iniciante-ab",
+      "name": "Adaptação Full Body A/B (Iniciante)",
+      "level": "Iniciante",
+      "location": "Academia Grande",
+      "daysPerWeek": 3,
+      "description": "Ideal para criar consistência trabalhando o corpo todo em máquinas guiadas.",
+      "days": [
+        {
+          "id": "ab-1",
+          "label": "DIA 1",
+          "title": "Treino A",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "leg-press-sentado",
+              "restSeconds": 90,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 60
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 60
+                }
+              ]
+            },
+            {
+              "exerciseId": "supino-reto-na-maquina",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                }
+              ]
+            },
+            {
+              "exerciseId": "puxada-aberta-pegada-pronada",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                }
+              ]
+            },
+            {
+              "exerciseId": "desenvolvimento-na-maquina",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 20
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 20
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 20
+                }
+              ]
+            },
+            {
+              "exerciseId": "abdominal-na-maquina",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 25
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 25
+                },
+                {
+                  "type": "normal",
+                  "reps": 15,
+                  "weight": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ab-2",
+          "label": "DIA 2",
+          "title": "Treino B",
+          "completed": false,
+          "exercises": [
+            {
+              "exerciseId": "cadeira-extensora",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                }
+              ]
+            },
+            {
+              "exerciseId": "cadeira-flexora",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                }
+              ]
+            },
+            {
+              "exerciseId": "remada-sentado-na-maquina",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 35
+                }
+              ]
+            },
+            {
+              "exerciseId": "crucifixo-peitoral-na-maquina",
+              "restSeconds": 75,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 30
+                }
+              ]
+            },
+            {
+              "exerciseId": "triceps-na-polia-com-corda",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 25
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 25
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 25
+                }
+              ]
+            },
+            {
+              "exerciseId": "rosca-biceps-na-maquina",
+              "restSeconds": 60,
+              "optional": false,
+              "unilateral": false,
+              "note": "",
+              "sets": [
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 20
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 20
+                },
+                {
+                  "type": "normal",
+                  "reps": 12,
+                  "weight": 20
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4030 @@
+[
+  {
+    "id": "crucifixo-peitoral-na-maquina",
+    "name": "Crucifixo Peitoral na Máquina",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 333,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-inclinado-com-halteres",
+    "name": "Supino Inclinado com Halteres",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 332,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "puxada-aberta-pegada-pronada",
+    "name": "Puxada Aberta (Pegada Pronada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 331,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "desenvolvimento-na-maquina",
+    "name": "Desenvolvimento na Máquina",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 330,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "desenvolvimento-sentado-com-halteres",
+    "name": "Desenvolvimento Sentado com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 329,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rosca-direta-com-barra-w",
+    "name": "Rosca Direta com Barra W",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 328,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "triceps-na-polia-com-barra-reta",
+    "name": "Tríceps na Polia com Barra Reta",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 327,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-na-polia-com-corda",
+    "name": "Tríceps na Polia com Corda",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 326,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "agachamento-livre",
+    "name": "Agachamento Livre",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 325,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "cadeira-extensora",
+    "name": "Cadeira Extensora",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 324,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "elevacao-pelvica-com-barra",
+    "name": "Elevação Pélvica com Barra",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 323,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "cadeira-flexora",
+    "name": "Cadeira Flexora",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Panturrilha"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 322,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "abdominal-em-pe-na-polia",
+    "name": "Abdominal em Pé na Polia",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 321,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-na-maquina",
+    "name": "Abdominal na Máquina",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 320,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-supra-no-solo",
+    "name": "Abdominal Supra no Solo",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 319,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-frontal",
+    "name": "Prancha Frontal",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 318,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "cadeira-abdutora",
+    "name": "Cadeira Abdutora",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 317,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "panturrilha-sentado",
+    "name": "Panturrilha Sentado",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 316,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "supino-reto-na-maquina",
+    "name": "Supino Reto na Máquina",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 315,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "pulldown-com-barra-reta",
+    "name": "Pulldown com Barra Reta",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 314,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-curvada-pegada-pronada",
+    "name": "Remada Curvada (Pegada Pronada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 313,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-sentado-na-maquina",
+    "name": "Remada Sentado na Máquina",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 312,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-serrote",
+    "name": "Remada Serrote",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 311,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "crucifixo-inverso-na-maquina",
+    "name": "Crucifixo Inverso na Máquina",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 310,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-lateral-com-halteres",
+    "name": "Elevação Lateral com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 309,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-lateral-na-polia-unilateral",
+    "name": "Elevação Lateral na Polia (Unilateral)",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 308,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-lateral-sentado-com-halteres",
+    "name": "Elevação Lateral Sentado com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 307,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rosca-bilateral-de-biceps-na-polia",
+    "name": "Rosca Bilateral de Bíceps na Polia",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 306,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-martelo-com-halteres",
+    "name": "Rosca Martelo com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 305,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-scott-fechada-com-barra-w",
+    "name": "Rosca Scott Fechada com Barra W",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 304,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "triceps-testa-corda-na-polia",
+    "name": "Tríceps Testa Corda na Polia",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 303,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "agachamento-bulgaro-no-smith",
+    "name": "Agachamento Búlgaro no Smith",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Smith",
+    "unilateral": true,
+    "popularity": 302,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-hack-na-maquina",
+    "name": "Agachamento Hack na Máquina",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 301,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-no-smith",
+    "name": "Agachamento no Smith",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 300,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "leg-press-45",
+    "name": "Leg Press 45",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 299,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "leg-press-sentado",
+    "name": "Leg Press Sentado",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 298,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "elevacao-pelvica-com-halter-no-banco",
+    "name": "Elevação Pélvica com Halter no Banco",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 297,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "elevacao-pelvica-na-maquina",
+    "name": "Elevação Pélvica na Máquina",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 296,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "stiff-com-barra",
+    "name": "Stiff com Barra",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 295,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "abdominal-supra-no-banco-declinado",
+    "name": "Abdominal Supra no Banco Declinado",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 294,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "cadeira-adutora",
+    "name": "Cadeira Adutora",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 293,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "panturrilha-em-pe-no-smith",
+    "name": "Panturrilha em Pé no Smith",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 292,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "extensao-lombar-na-maquina",
+    "name": "Extensão Lombar na Máquina",
+    "muscle": "Lombar",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 291,
+    "instructions": "Execute com a coluna neutra e movimento lento, contraindo glúteos e eretores sem forçar hiperextensão excessiva."
+  },
+  {
+    "id": "crucifixo-na-polia-alta",
+    "name": "Crucifixo na Polia Alta",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 290,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-inclinado-na-maquina",
+    "name": "Supino Inclinado na Máquina",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 289,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-reto-com-barra",
+    "name": "Supino Reto com Barra",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 288,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "puxada-com-triangulo-pegada-neutra",
+    "name": "Puxada com Triângulo (Pegada Neutra)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 287,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-baixa-sentada-pegada-neutra",
+    "name": "Remada Baixa Sentada (Pegada Neutra)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 286,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-cavalinho",
+    "name": "Remada Cavalinho",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 285,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-maquina-com-anilhas-pegada-pronada",
+    "name": "Remada Máquina com Anilhas (Pegada Pronada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 284,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "desenvolvimento-de-ombros-sentado-no-smith",
+    "name": "Desenvolvimento de Ombros Sentado no Smith",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 283,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "desenvolvimento-na-maquina-pegada-neutra",
+    "name": "Desenvolvimento na Máquina (Pegada Neutra)",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 282,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-frontal-com-halteres",
+    "name": "Elevação Frontal com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 281,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-lateral-inclinada-na-polia",
+    "name": "Elevação Lateral Inclinada na Polia",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 280,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "remada-alta-com-halteres",
+    "name": "Remada Alta com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas",
+      "Bíceps"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 279,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rosca-alternada-com-halteres",
+    "name": "Rosca Alternada com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 278,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-bayesian-na-polia-unilateral",
+    "name": "Rosca Bayesian na Polia (Unilateral)",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 277,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-biceps-com-halteres",
+    "name": "Rosca Bíceps com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 276,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-biceps-na-maquina",
+    "name": "Rosca Bíceps na Máquina",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 275,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-direta-com-barra-reta",
+    "name": "Rosca Direta com Barra Reta",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 274,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-direta-na-polia-baixa-com-barra-reta",
+    "name": "Rosca Direta na Polia Baixa com Barra Reta",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 273,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-martelo-cruzada-com-halteres",
+    "name": "Rosca Martelo Cruzada com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 272,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-martelo-na-polia-com-corda",
+    "name": "Rosca Martelo na Polia com Corda",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 271,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-scott-na-maquina",
+    "name": "Rosca Scott na Máquina",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 270,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "triceps-coice-na-polia-com-corda-unilateral",
+    "name": "Tríceps Coice na Polia com Corda (Unilateral)",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 269,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-frances-com-halter-unilateral",
+    "name": "Tríceps Francês com Halter (Unilateral)",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 268,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-testa-com-halteres",
+    "name": "Tríceps Testa com Halteres",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 267,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "afundo-com-kettlebell",
+    "name": "Afundo com Kettlebell",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": true,
+    "popularity": 266,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-goblet-com-halteres",
+    "name": "Agachamento Goblet com Halteres",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 265,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "avanco-com-halteres",
+    "name": "Avanço com Halteres",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 264,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "levantamento-terra-sumo",
+    "name": "Levantamento Terra Sumô",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 263,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "mesa-flexora",
+    "name": "Mesa Flexora",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Panturrilha"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 262,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "stiff-com-halteres",
+    "name": "Stiff com Halteres",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 261,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "abdominal-infra-no-solo",
+    "name": "Abdominal Infra no Solo",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 260,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-com-toque-nos-ombros",
+    "name": "Prancha com Toque nos Ombros",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 259,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "encolhimento-com-halteres",
+    "name": "Encolhimento com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 258,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "flexao-de-punho-com-halteres-unilateral",
+    "name": "Flexão de Punho com Halteres (Unilateral)",
+    "muscle": "Antebraço",
+    "secondaryMuscles": [
+      "Bíceps"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 257,
+    "instructions": "Apoie bem o antebraço e execute o movimento exclusivamente com o punho em amplitude completa e ritmo controlado."
+  },
+  {
+    "id": "abdominal-obliquo",
+    "name": "Abdominal Oblíquo",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 256,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "crucifixo-na-polia-baixa",
+    "name": "Crucifixo na Polia Baixa",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 255,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "crucifixo-na-polia-media",
+    "name": "Crucifixo na Polia Média",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 254,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "crucifixo-peitoral-com-halteres",
+    "name": "Crucifixo Peitoral com Halteres",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 253,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "flexao-de-braco",
+    "name": "Flexão de Braço",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 252,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-declinado-com-barra",
+    "name": "Supino Declinado com Barra",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 251,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-declinado-na-maquina",
+    "name": "Supino Declinado na Máquina",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 250,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-inclinado-com-barra",
+    "name": "Supino Inclinado com Barra",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 249,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-reto-com-halteres",
+    "name": "Supino Reto com Halteres",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 248,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "barra-fixa-no-graviton-pegada-pronada",
+    "name": "Barra Fixa no Graviton (Pegada Pronada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 247,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-baixa-sentada-pegada-pronada",
+    "name": "Remada Baixa Sentada (Pegada Pronada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 246,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "crucifixo-inverso-na-polia",
+    "name": "Crucifixo Inverso na Polia",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 245,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "crucifixo-inverso-sentado-com-halteres",
+    "name": "Crucifixo Inverso Sentado com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 244,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "desenvolvimento-arnold-com-halteres",
+    "name": "Desenvolvimento Arnold com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 243,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-frontal-com-barra",
+    "name": "Elevação Frontal com Barra",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 242,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-lateral-em-pe-na-maquina",
+    "name": "Elevação Lateral em Pé na Máquina",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 241,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-lateral-unilateral-com-halter-no-banco-inclinado",
+    "name": "Elevação Lateral Unilateral com Halter no Banco Inclinado",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 240,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rosca-biceps-sentado-com-halteres",
+    "name": "Rosca Bíceps Sentado com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 239,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-concentrada",
+    "name": "Rosca Concentrada",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 238,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-inclinada-com-halteres",
+    "name": "Rosca Inclinada com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 237,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-na-polia-alta",
+    "name": "Rosca na Polia Alta",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 236,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "mergulho-assistido-ajoelhado",
+    "name": "Mergulho Assistido Ajoelhado",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 235,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "triceps-na-polia-com-corda-unilateral",
+    "name": "Tríceps na Polia com Corda (Unilateral)",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 234,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "agachamento-frontal",
+    "name": "Agachamento Frontal",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 233,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-sumo-no-smith",
+    "name": "Agachamento Sumô no Smith",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 232,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "cadeira-extensora-unilateral",
+    "name": "Cadeira Extensora (Unilateral)",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": true,
+    "popularity": 231,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "recuo-alternado-com-halteres",
+    "name": "Recuo Alternado com Halteres",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 230,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-bulgaro-com-halteres",
+    "name": "Agachamento Búlgaro com Halteres",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 229,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "elevacao-pelvica-com-peso-corporal",
+    "name": "Elevação Pélvica com Peso Corporal",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 228,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "elevacao-pelvica-no-banco-unilateral",
+    "name": "Elevação Pélvica no Banco (Unilateral)",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 227,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "elevacao-pelvica-no-smith",
+    "name": "Elevação Pélvica no Smith",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 226,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "extensao-de-quadril-na-polia-baixa",
+    "name": "Extensão de Quadril na Polia Baixa",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 225,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "flexao-de-joelho-em-pe",
+    "name": "Flexão de Joelho em Pé",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Panturrilha"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 224,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "levantamento-terra",
+    "name": "Levantamento Terra",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 223,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "stiff-com-kettlebell",
+    "name": "Stiff com Kettlebell",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 222,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "panturrilha-no-leg-press-45",
+    "name": "Panturrilha no Leg Press 45",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 221,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "encolhimento-no-smith",
+    "name": "Encolhimento no Smith",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 220,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "extensao-de-punho-com-barra-reta",
+    "name": "Extensão de Punho com Barra Reta",
+    "muscle": "Antebraço",
+    "secondaryMuscles": [
+      "Bíceps"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 219,
+    "instructions": "Apoie bem o antebraço e execute o movimento exclusivamente com o punho em amplitude completa e ritmo controlado."
+  },
+  {
+    "id": "crucifixo-inclinado-com-halteres",
+    "name": "Crucifixo Inclinado com Halteres",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 218,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "pullover-com-halter",
+    "name": "Pullover com Halter",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Peito"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 217,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "supino-declinado-com-halteres",
+    "name": "Supino Declinado com Halteres",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 216,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-fechado-com-halteres",
+    "name": "Supino Fechado com Halteres",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Peito",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 215,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "supino-reto-com-barra-e-pausa",
+    "name": "Supino Reto com Barra e Pausa",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 214,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-reto-deitado-na-maquina",
+    "name": "Supino Reto Deitado na Máquina",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 213,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "barra-fixa-pegada-pronada",
+    "name": "Barra Fixa (Pegada Pronada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 212,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "puxada-aberta-na-maquina-articulada",
+    "name": "Puxada Aberta na Máquina Articulada",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 211,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "puxada-frontal-articulada",
+    "name": "Puxada Frontal Articulada",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 210,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "puxada-por-tras",
+    "name": "Puxada por Trás",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 209,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-alta-na-maquina-com-anilhas",
+    "name": "Remada Alta na Máquina com Anilhas",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 208,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-curvada-no-smith-pegada-pronada",
+    "name": "Remada Curvada no Smith (Pegada Pronada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 207,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-deitado-na-barra-t",
+    "name": "Remada Deitado na Barra T",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 206,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-unilateral-sentado-no-cabo",
+    "name": "Remada Unilateral Sentado no Cabo",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 205,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "crucifixo-inverso-no-cross-over",
+    "name": "Crucifixo Inverso no Cross Over",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 204,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "desenvolvimento-em-pe-com-halteres",
+    "name": "Desenvolvimento em Pé com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 203,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "face-pull-em-pe-com-corda-na-polia",
+    "name": "Face Pull em Pé com Corda na Polia",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 202,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "remada-aberta-na-polia-com-corda",
+    "name": "Remada Aberta na Polia com Corda",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 201,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-alta-na-polia-com-barra-reta",
+    "name": "Remada Alta na Polia com Barra Reta",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas",
+      "Bíceps"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 200,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rosca-direta-na-polia-baixa-com-barra-w",
+    "name": "Rosca Direta na Polia Baixa com Barra W",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 199,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-inversa-na-polia-baixa",
+    "name": "Rosca Inversa na Polia Baixa",
+    "muscle": "Antebraço",
+    "secondaryMuscles": [
+      "Bíceps"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 198,
+    "instructions": "Apoie bem o antebraço e execute o movimento exclusivamente com o punho em amplitude completa e ritmo controlado."
+  },
+  {
+    "id": "extensao-de-triceps-na-maquina",
+    "name": "Extensão de Tríceps na Máquina",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 197,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "mergulho-nas-paralelas",
+    "name": "Mergulho nas Paralelas",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 196,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "triceps-frances-com-halter",
+    "name": "Tríceps Francês com Halter",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 195,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-frances-na-polia-unilateral",
+    "name": "Tríceps Francês na Polia (Unilateral)",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 194,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-na-polia-com-barra-v",
+    "name": "Tríceps na Polia com Barra V",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 193,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "agachamento-bulgaro",
+    "name": "Agachamento Búlgaro",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 192,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-frontal-com-halteres",
+    "name": "Agachamento Frontal com Halteres",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 191,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-hack-vertical-reverso-na-maquina",
+    "name": "Agachamento Hack Vertical Reverso na Máquina",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 190,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-sumo-com-kettlebell",
+    "name": "Agachamento Sumô com Kettlebell",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 189,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "avanco",
+    "name": "Avanço",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 188,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "recuo-no-smith",
+    "name": "Recuo no Smith",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Smith",
+    "unilateral": true,
+    "popularity": 187,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-sumo-com-barra",
+    "name": "Agachamento Sumô com Barra",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 186,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "elevacao-pelvica-com-halter-no-chao",
+    "name": "Elevação Pélvica com Halter no Chão",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 185,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "elevacao-pelvica-unilateral-com-barra",
+    "name": "Elevação Pélvica Unilateral com Barra",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": true,
+    "popularity": 184,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "extensao-de-quadril-em-pe-na-polia",
+    "name": "Extensão de Quadril em Pé na Polia",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 183,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "levantamento-terra-com-kettlebell",
+    "name": "Levantamento Terra com Kettlebell",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 182,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "bom-dia-com-barra-reta",
+    "name": "Bom Dia com Barra Reta",
+    "muscle": "Lombar",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 181,
+    "instructions": "Execute com a coluna neutra e movimento lento, contraindo glúteos e eretores sem forçar hiperextensão excessiva."
+  },
+  {
+    "id": "levantamento-terra-no-smith",
+    "name": "Levantamento Terra no Smith",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 180,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "abdominal-infra-suspenso-com-joelhos-flexionados",
+    "name": "Abdominal Infra Suspenso com Joelhos Flexionados",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 179,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-alta-com-caminhada",
+    "name": "Prancha Alta com Caminhada",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 178,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-frontal-com-rotacao",
+    "name": "Prancha Frontal com Rotação",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 177,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "aducao-de-quadril-na-polia",
+    "name": "Adução de Quadril na Polia",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 176,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "panturrilha-no-leg-press-horizontal",
+    "name": "Panturrilha no Leg Press Horizontal",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 175,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "rotacao-de-tronco-no-cabo",
+    "name": "Rotação de Tronco no Cabo",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 174,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "hiperextensao-lombar",
+    "name": "Hiperextensão Lombar",
+    "muscle": "Lombar",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 173,
+    "instructions": "Execute com a coluna neutra e movimento lento, contraindo glúteos e eretores sem forçar hiperextensão excessiva."
+  },
+  {
+    "id": "paralelas",
+    "name": "Paralelas",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 172,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-inclinado-no-smith",
+    "name": "Supino Inclinado no Smith",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 171,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-reto-com-halteres-pegada-neutra",
+    "name": "Supino Reto com Halteres (Pegada Neutra)",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 170,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "pulldown-inclinado-na-polia",
+    "name": "Pulldown Inclinado na Polia",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 169,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "pullover-na-maquina-com-anilhas",
+    "name": "Pullover na Máquina com Anilhas",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Peito"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 168,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "puxada-aberta-pegada-neutra",
+    "name": "Puxada Aberta (Pegada Neutra)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 167,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "puxada-cruzada-na-maquina-articulada",
+    "name": "Puxada Cruzada na Máquina Articulada",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 166,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "puxada-fechada-pegada-supinada",
+    "name": "Puxada Fechada (Pegada Supinada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 165,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "puxada-unilateral-na-polia-alta",
+    "name": "Puxada Unilateral na Polia Alta",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 164,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-aberta-na-maquina-pegada-neutra",
+    "name": "Remada Aberta na Máquina (Pegada Neutra)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 163,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-baixa-sentada-pegada-supinada",
+    "name": "Remada Baixa Sentada (Pegada Supinada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 162,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-curvada-com-halteres",
+    "name": "Remada Curvada com Halteres",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 161,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-maquina-com-anilhas-pegada-neutra",
+    "name": "Remada Máquina com Anilhas (Pegada Neutra)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 160,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-unilateral-curvada-no-cabo",
+    "name": "Remada Unilateral Curvada no Cabo",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 159,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-unilateral-maquina-com-anilhas-pegada-neutra",
+    "name": "Remada Unilateral Máquina com Anilhas (Pegada Neutra)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": true,
+    "popularity": 158,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "desenvolvimento-em-pe-com-barra",
+    "name": "Desenvolvimento em Pé com Barra",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 157,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "remada-alta-com-barra-reta",
+    "name": "Remada Alta com Barra Reta",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas",
+      "Bíceps"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 156,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "remada-alta-com-kettlebell",
+    "name": "Remada Alta com Kettlebell",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas",
+      "Bíceps"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 155,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rotacao-externa-de-ombro-na-polia",
+    "name": "Rotação Externa de Ombro na Polia",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 154,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rotacao-interna-de-ombro-na-polia",
+    "name": "Rotação Interna de Ombro na Polia",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 153,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rosca-direta-na-polia-unilateral",
+    "name": "Rosca Direta na Polia (Unilateral)",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 152,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-martelo-cruzada-na-polia",
+    "name": "Rosca Martelo Cruzada na Polia",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 151,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-martelo-sentado-com-halteres",
+    "name": "Rosca Martelo Sentado com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 150,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-spider-com-barra",
+    "name": "Rosca Spider com Barra",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 149,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-spider-com-halteres",
+    "name": "Rosca Spider com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 148,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "extensao-de-triceps-na-maquina-de-alavanca",
+    "name": "Extensão de Tríceps na Máquina de Alavanca",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 147,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "mergulho-assistido-para-triceps-ajoelhado",
+    "name": "Mergulho Assistido para Tríceps Ajoelhado",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Peito",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 146,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-coice-na-polia-com-corda",
+    "name": "Tríceps Coice na Polia com Corda",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 145,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-cruzado-na-polia-unilateral",
+    "name": "Tríceps Cruzado na Polia (Unilateral)",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 144,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-frances-na-polia-com-corda",
+    "name": "Tríceps Francês na Polia com Corda",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 143,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-na-polia-com-barra-w",
+    "name": "Tríceps na Polia com Barra W",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 142,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-testa-na-polia-com-barra-w",
+    "name": "Tríceps Testa na Polia com Barra W",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 141,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "afundo-com-barra",
+    "name": "Afundo com Barra",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": true,
+    "popularity": 140,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-com-salto",
+    "name": "Agachamento com Salto",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 139,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "subida-no-step",
+    "name": "Subida no Step",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 138,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "elevacao-pelvica-no-solo-com-halter-unilateral",
+    "name": "Elevação Pélvica no Solo com Halter (Unilateral)",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 137,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "pull-through-na-polia",
+    "name": "Pull Through na Polia",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 136,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "levantamento-terra-na-maquina",
+    "name": "Levantamento Terra na Máquina",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 135,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "abdominal-infra-com-os-joelhos-flexionados",
+    "name": "Abdominal Infra com os Joelhos Flexionados",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 134,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-remador",
+    "name": "Abdominal Remador",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 133,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-remador-circular-sentado",
+    "name": "Abdominal Remador Circular Sentado",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 132,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-russo-com-kettlebell",
+    "name": "Abdominal Russo com Kettlebell",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 131,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-supra-sentado-na-polia",
+    "name": "Abdominal Supra Sentado na Polia",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 130,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-frontal-alta",
+    "name": "Prancha Frontal Alta",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 129,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abducao-de-quadril-na-polia",
+    "name": "Abdução de Quadril na Polia",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 128,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "panturrilha-em-pe",
+    "name": "Panturrilha em Pé",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 127,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "panturrilha-em-pe-com-halteres",
+    "name": "Panturrilha em Pé com Halteres",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 126,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "panturrilha-unilateral-no-smith",
+    "name": "Panturrilha Unilateral no Smith",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Smith",
+    "unilateral": true,
+    "popularity": 125,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "flexao-de-punho-na-polia",
+    "name": "Flexão de Punho na Polia",
+    "muscle": "Antebraço",
+    "secondaryMuscles": [
+      "Bíceps"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 124,
+    "instructions": "Apoie bem o antebraço e execute o movimento exclusivamente com o punho em amplitude completa e ritmo controlado."
+  },
+  {
+    "id": "prancha-lateral",
+    "name": "Prancha Lateral",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 123,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "levantamento-terra-parcial-no-smith",
+    "name": "Levantamento Terra Parcial no Smith",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 122,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "superman-com-ativacao-escapular",
+    "name": "Superman com Ativação Escapular",
+    "muscle": "Lombar",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 121,
+    "instructions": "Execute com a coluna neutra e movimento lento, contraindo glúteos e eretores sem forçar hiperextensão excessiva."
+  },
+  {
+    "id": "flexao-de-braco-ajoelhado",
+    "name": "Flexão de Braço Ajoelhado",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 120,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "flexao-de-braco-declinada",
+    "name": "Flexão de Braço Declinada",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 119,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "flexao-de-braco-fechada",
+    "name": "Flexão de Braço Fechada",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Peito",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 118,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "flexao-de-braco-inclinada-na-caixa",
+    "name": "Flexão de Braço Inclinada na Caixa",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 117,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "flexao-de-ombro-no-bosu",
+    "name": "Flexão de Ombro no Bosu",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Acessórios",
+    "unilateral": false,
+    "popularity": 116,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "pec-deck-voador",
+    "name": "Pec Deck Voador",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 115,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-alternado-no-chao-com-kettlebells",
+    "name": "Supino Alternado no Chão com Kettlebells",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": true,
+    "popularity": 114,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-em-pe-na-polia",
+    "name": "Supino em Pé na Polia",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 113,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-reto-com-halteres-no-solo",
+    "name": "Supino Reto com Halteres no Solo",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 112,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "voador-em-pe-na-maquina",
+    "name": "Voador em Pé na Máquina",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 111,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "voador-inclinado-na-maquina",
+    "name": "Voador Inclinado na Máquina",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 110,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "barra-fixa-pegada-supinada",
+    "name": "Barra Fixa (Pegada Supinada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 109,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "barra-fixa-com-elastico",
+    "name": "Barra Fixa com Elástico",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Elástico",
+    "unilateral": false,
+    "popularity": 108,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "extensao-de-tronco",
+    "name": "Extensão de Tronco",
+    "muscle": "Lombar",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 107,
+    "instructions": "Execute com a coluna neutra e movimento lento, contraindo glúteos e eretores sem forçar hiperextensão excessiva."
+  },
+  {
+    "id": "extensao-lombar-maquina",
+    "name": "Extensão Lombar Máquina",
+    "muscle": "Lombar",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 106,
+    "instructions": "Execute com a coluna neutra e movimento lento, contraindo glúteos e eretores sem forçar hiperextensão excessiva."
+  },
+  {
+    "id": "puxada-alta-ajoelhado-na-polia",
+    "name": "Puxada Alta Ajoelhado na Polia",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 105,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-baixa-triangulo",
+    "name": "Remada Baixa Triângulo",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 104,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-com-halteres-no-banco-inclinado",
+    "name": "Remada com Halteres no Banco Inclinado",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 103,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-curvada-pegada-supinada",
+    "name": "Remada Curvada (Pegada Supinada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 102,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-curvada-na-polia-pegada-pronada",
+    "name": "Remada Curvada na Polia (Pegada Pronada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 101,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-serrote-com-kettlebell",
+    "name": "Remada Serrote com Kettlebell",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": true,
+    "popularity": 100,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "desenvolvimento-na-polia",
+    "name": "Desenvolvimento na Polia",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 99,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "desenvolvimento-sentado-com-halteres-pegada-neutra",
+    "name": "Desenvolvimento Sentado com Halteres (Pegada Neutra)",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 98,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-frontal-alternada-sentado-com-halteres",
+    "name": "Elevação Frontal Alternada Sentado com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 97,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-frontal-na-polia-com-barra-reta",
+    "name": "Elevação Frontal na Polia com Barra Reta",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 96,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-lateral-e-frontal-com-halteres",
+    "name": "Elevação Lateral e Frontal com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 95,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-y-no-cabo",
+    "name": "Elevação Y no Cabo",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 94,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "remada-alta-com-barra-w",
+    "name": "Remada Alta com Barra W",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas",
+      "Bíceps"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 93,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rosca-alternada-sentado-com-halteres",
+    "name": "Rosca Alternada Sentado com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 92,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-biceps-com-barra-reta",
+    "name": "Rosca Bíceps com Barra Reta",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 91,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-scott-com-barra-reta",
+    "name": "Rosca Scott com Barra Reta",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 90,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "rosca-scott-com-halteres",
+    "name": "Rosca Scott com Halteres",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 89,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "supino-fechado",
+    "name": "Supino Fechado",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Peito",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 88,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-coice-com-halter-unilateral",
+    "name": "Tríceps Coice com Halter (Unilateral)",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Halteres",
+    "unilateral": true,
+    "popularity": 87,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-frances-com-elastico",
+    "name": "Tríceps Francês com Elástico",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Elástico",
+    "unilateral": false,
+    "popularity": 86,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-frances-sentado-com-halter",
+    "name": "Tríceps Francês Sentado com Halter",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 85,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "triceps-inverso-na-polia-com-barra-w",
+    "name": "Tríceps Inverso na Polia com Barra W",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 84,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "agachamento-frontal-com-kettlebell",
+    "name": "Agachamento Frontal com Kettlebell",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 83,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-lateral-com-kettlebell",
+    "name": "Agachamento Lateral com Kettlebell",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 82,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-no-banco-com-barra",
+    "name": "Agachamento no Banco com Barra",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 81,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-pistol-com-kettlebell",
+    "name": "Agachamento Pistol com Kettlebell",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": true,
+    "popularity": 80,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-sumo-com-halteres",
+    "name": "Agachamento Sumô com Halteres",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 79,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-sumo-com-kettlebell-no-step",
+    "name": "Agachamento Sumô com Kettlebell no Step",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 78,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "alongamento-de-flexores-de-quadril-ajoelhado",
+    "name": "Alongamento de Flexores de Quadril Ajoelhado",
+    "muscle": "Mobilidade",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 77,
+    "instructions": "Respire profundamente de forma lenta, mantendo a posição no limite confortável do alongamento sem dor aguda."
+  },
+  {
+    "id": "avanco-com-barra",
+    "name": "Avanço com Barra",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": true,
+    "popularity": 76,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "burpee",
+    "name": "Burpee",
+    "muscle": "Cardio/Potência",
+    "secondaryMuscles": [
+      "Quadríceps",
+      "Abdômen"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 75,
+    "instructions": "Execute com ritmo explosivo e técnica limpa, absorvendo o impacto suavemente e controlando a respiração."
+  },
+  {
+    "id": "cadeira-chinesa",
+    "name": "Cadeira Chinesa",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 74,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "salto-no-banco-unilateral",
+    "name": "Salto no Banco (Unilateral)",
+    "muscle": "Cardio/Potência",
+    "secondaryMuscles": [
+      "Quadríceps",
+      "Abdômen"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 73,
+    "instructions": "Execute com ritmo explosivo e técnica limpa, absorvendo o impacto suavemente e controlando a respiração."
+  },
+  {
+    "id": "elevacao-pelvica-com-pes-no-step",
+    "name": "Elevação Pélvica com Pés no Step",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 72,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "kettlebell-swing",
+    "name": "Kettlebell Swing",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 71,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "levantamento-terra-base-assimetrica",
+    "name": "Levantamento Terra Base Assimétrica",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 70,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "levantamento-terra-no-hack",
+    "name": "Levantamento Terra no Hack",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 69,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "levantamento-terra-unilateral-com-kettlebell",
+    "name": "Levantamento Terra Unilateral com Kettlebell",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": true,
+    "popularity": 68,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "walkout",
+    "name": "Walkout",
+    "muscle": "Cardio/Potência",
+    "secondaryMuscles": [
+      "Quadríceps",
+      "Abdômen"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 67,
+    "instructions": "Execute com ritmo explosivo e técnica limpa, absorvendo o impacto suavemente e controlando a respiração."
+  },
+  {
+    "id": "abdominal-dead-bug",
+    "name": "Abdominal Dead Bug",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 66,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-na-bola-suica",
+    "name": "Abdominal na Bola Suíça",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Acessórios",
+    "unilateral": false,
+    "popularity": 65,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-supra-com-anilha",
+    "name": "Abdominal Supra com Anilha",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Acessórios",
+    "unilateral": false,
+    "popularity": 64,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-supra-no-solo-com-pes-altos",
+    "name": "Abdominal Supra no Solo com Pés Altos",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 63,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abdominal-tesoura-no-banco",
+    "name": "Abdominal Tesoura no Banco",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 62,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "alongamento-cobra",
+    "name": "Alongamento Cobra",
+    "muscle": "Mobilidade",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 61,
+    "instructions": "Respire profundamente de forma lenta, mantendo a posição no limite confortável do alongamento sem dor aguda."
+  },
+  {
+    "id": "perdigueiro",
+    "name": "Perdigueiro",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 60,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-alternando-bracos-e-pernas",
+    "name": "Prancha Alternando Braços e Pernas",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 59,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-com-apoio-nos-joelhos",
+    "name": "Prancha com Apoio nos Joelhos",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 58,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-dinamica",
+    "name": "Prancha Dinâmica",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 57,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "rollout-com-barra",
+    "name": "Rollout com Barra",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 56,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "prancha-lateral-com-aducao-de-quadril",
+    "name": "Prancha Lateral com Adução de Quadril",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 55,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  },
+  {
+    "id": "abducao-de-quadril-com-elastico",
+    "name": "Abdução de Quadril com Elástico",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [],
+    "equipment": "Elástico",
+    "unilateral": false,
+    "popularity": 54,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "ostra",
+    "name": "Ostra",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 53,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "polichinelo",
+    "name": "Polichinelo",
+    "muscle": "Cardio/Potência",
+    "secondaryMuscles": [
+      "Quadríceps",
+      "Abdômen"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 52,
+    "instructions": "Execute com ritmo explosivo e técnica limpa, absorvendo o impacto suavemente e controlando a respiração."
+  },
+  {
+    "id": "panturrilha-em-pe-com-kettlebell",
+    "name": "Panturrilha em Pé com Kettlebell",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 51,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "panturrilha-rotatoria-na-maquina",
+    "name": "Panturrilha Rotatória na Máquina",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 50,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "panturrilha-sentado-com-barra",
+    "name": "Panturrilha Sentado com Barra",
+    "muscle": "Panturrilha",
+    "secondaryMuscles": [],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 49,
+    "instructions": "Explore a amplitude máxima: alongue bem o calcanhar na descida, pause brevemente e suba o máximo possível empurrando pela base dos dedos."
+  },
+  {
+    "id": "encolhimento-com-barra-reta",
+    "name": "Encolhimento com Barra Reta",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 48,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "encolhimento-na-polia",
+    "name": "Encolhimento na Polia",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 47,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "superman",
+    "name": "Superman",
+    "muscle": "Lombar",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 46,
+    "instructions": "Execute com a coluna neutra e movimento lento, contraindo glúteos e eretores sem forçar hiperextensão excessiva."
+  },
+  {
+    "id": "crucifixo-deitado-na-polia",
+    "name": "Crucifixo Deitado na Polia",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 45,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "flexao-de-braco-com-elastico",
+    "name": "Flexão de Braço com Elástico",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Elástico",
+    "unilateral": false,
+    "popularity": 44,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "flexao-de-braco-com-palmas",
+    "name": "Flexão de Braço com Palmas",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 43,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "flexao-de-braco-com-rotacao-de-tronco",
+    "name": "Flexão de Braço com Rotação de Tronco",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 42,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-declinado-no-smith",
+    "name": "Supino Declinado no Smith",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Smith",
+    "unilateral": false,
+    "popularity": 41,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "supino-reto-na-polia",
+    "name": "Supino Reto na Polia",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Polia",
+    "unilateral": false,
+    "popularity": 40,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "barra-fixa-no-graviton-pegada-neutra",
+    "name": "Barra Fixa no Graviton (Pegada Neutra)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 39,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "barra-fixa-no-graviton-pegada-supinada",
+    "name": "Barra Fixa no Graviton (Pegada Supinada)",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 38,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "muscle-up",
+    "name": "Muscle-Up",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 37,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-curvada-com-elastico",
+    "name": "Remada Curvada com Elástico",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Elástico",
+    "unilateral": false,
+    "popularity": 36,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-deitado-com-barra-w",
+    "name": "Remada Deitado com Barra W",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 35,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-gorila-com-kettlebell",
+    "name": "Remada Gorila com Kettlebell",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 34,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-invertida",
+    "name": "Remada Invertida",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 33,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-sentada-com-elastico",
+    "name": "Remada Sentada com Elástico",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Elástico",
+    "unilateral": false,
+    "popularity": 32,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "remada-unilateral-com-landmine",
+    "name": "Remada Unilateral com Landmine",
+    "muscle": "Costas",
+    "secondaryMuscles": [
+      "Bíceps",
+      "Ombros"
+    ],
+    "equipment": "Barra",
+    "unilateral": true,
+    "popularity": 31,
+    "instructions": "Inicie o movimento puxando com os cotovelos e fechando as escápulas; evite balançar o tronco para manter a tensão contínua no dorsal."
+  },
+  {
+    "id": "crucifixo-inverso-curvado-com-halteres",
+    "name": "Crucifixo Inverso Curvado com Halteres",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Costas"
+    ],
+    "equipment": "Halteres",
+    "unilateral": false,
+    "popularity": 30,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "desenvolvimento-alternado-com-kettlebell",
+    "name": "Desenvolvimento Alternado com Kettlebell",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": true,
+    "popularity": 29,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "elevacao-frontal-na-polia-unilateral",
+    "name": "Elevação Frontal na Polia (Unilateral)",
+    "muscle": "Ombros",
+    "secondaryMuscles": [],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 28,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "push-press-com-kettlebell",
+    "name": "Push Press com Kettlebell",
+    "muscle": "Ombros",
+    "secondaryMuscles": [
+      "Tríceps"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 27,
+    "instructions": "Mantenha o core firme e os ombros longe das orelhas; controle a subida até a linha dos ombros/acima da cabeça sem usar impulso da lombar."
+  },
+  {
+    "id": "rosca-inversa-com-barra-reta",
+    "name": "Rosca Inversa com Barra Reta",
+    "muscle": "Antebraço",
+    "secondaryMuscles": [
+      "Bíceps"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 26,
+    "instructions": "Apoie bem o antebraço e execute o movimento exclusivamente com o punho em amplitude completa e ritmo controlado."
+  },
+  {
+    "id": "rosca-na-polia-alta-unilateral",
+    "name": "Rosca na Polia Alta (Unilateral)",
+    "muscle": "Bíceps",
+    "secondaryMuscles": [
+      "Antebraço"
+    ],
+    "equipment": "Polia",
+    "unilateral": true,
+    "popularity": 25,
+    "instructions": "Mantenha os cotovelos estabilizados próximos ao tronco; suba contraindo totalmente o bíceps e desça de forma controlada até quase estender o braço."
+  },
+  {
+    "id": "mergulho-na-maquina",
+    "name": "Mergulho na Máquina",
+    "muscle": "Peito",
+    "secondaryMuscles": [
+      "Tríceps",
+      "Ombros"
+    ],
+    "equipment": "Máquina",
+    "unilateral": false,
+    "popularity": 24,
+    "instructions": "Mantenha as escápulas retraídas e o peito aberto; controle a fase excêntrica (descida) por 2 segundos e empurre com firmeza sem travar bruscamente os cotovelos."
+  },
+  {
+    "id": "triceps-mergulho-no-banco",
+    "name": "Tríceps Mergulho no Banco",
+    "muscle": "Tríceps",
+    "secondaryMuscles": [
+      "Peito",
+      "Ombros"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 23,
+    "instructions": "Fixe os cotovelos na posição inicial e concentre o movimento apenas na extensão do antebraço, segurando 1 segundo no pico de contração."
+  },
+  {
+    "id": "agachamento-lateral",
+    "name": "Agachamento Lateral",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 22,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "agachamento-livre-com-mini-band",
+    "name": "Agachamento Livre com Mini Band",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Elástico",
+    "unilateral": false,
+    "popularity": 21,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "avanco-com-pulsacao",
+    "name": "Avanço com Pulsação",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 20,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "recuo-alternado",
+    "name": "Recuo Alternado",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 19,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "recuo-com-barra-reta",
+    "name": "Recuo com Barra Reta",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": true,
+    "popularity": 18,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "salto-em-profundidade-do-caixote",
+    "name": "Salto em Profundidade do Caixote",
+    "muscle": "Cardio/Potência",
+    "secondaryMuscles": [
+      "Quadríceps",
+      "Abdômen"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 17,
+    "instructions": "Execute com ritmo explosivo e técnica limpa, absorvendo o impacto suavemente e controlando a respiração."
+  },
+  {
+    "id": "salto-na-caixa",
+    "name": "Salto na Caixa",
+    "muscle": "Cardio/Potência",
+    "secondaryMuscles": [
+      "Quadríceps",
+      "Abdômen"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 16,
+    "instructions": "Execute com ritmo explosivo e técnica limpa, absorvendo o impacto suavemente e controlando a respiração."
+  },
+  {
+    "id": "subida-no-banco-com-kettlebell",
+    "name": "Subida no Banco com Kettlebell",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": true,
+    "popularity": 15,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "90-90-de-quadril",
+    "name": "90-90 de Quadril",
+    "muscle": "Mobilidade",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 14,
+    "instructions": "Respire profundamente de forma lenta, mantendo a posição no limite confortável do alongamento sem dor aguda."
+  },
+  {
+    "id": "agachamento-ajoelhado-com-barra",
+    "name": "Agachamento Ajoelhado com Barra",
+    "muscle": "Quadríceps",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 13,
+    "instructions": "Mantenha o tronco alinhado e os joelhos acompanhando a direção da ponta dos pés; controle a descida com boa amplitude e empurre o chão com o pé inteiro."
+  },
+  {
+    "id": "alongamento-posicao-do-pombo-bilateral",
+    "name": "Alongamento Posição do Pombo Bilateral",
+    "muscle": "Mobilidade",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 12,
+    "instructions": "Respire profundamente de forma lenta, mantendo a posição no limite confortável do alongamento sem dor aguda."
+  },
+  {
+    "id": "cachorro-olhando-para-baixo-com-perna-alternada",
+    "name": "Cachorro Olhando para Baixo com Perna Alternada",
+    "muscle": "Mobilidade",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": true,
+    "popularity": 11,
+    "instructions": "Respire profundamente de forma lenta, mantendo a posição no limite confortável do alongamento sem dor aguda."
+  },
+  {
+    "id": "elevacao-pelvica-com-barra-reta-na-caixa",
+    "name": "Elevação Pélvica com Barra Reta na Caixa",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Barra",
+    "unilateral": false,
+    "popularity": 10,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "elevacao-pelvica-com-barra-reta-no-solo",
+    "name": "Elevação Pélvica com Barra Reta no Solo",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 9,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "elevacao-pelvica-no-solo-com-abducao-de-quadril",
+    "name": "Elevação Pélvica no Solo com Abdução de Quadril",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 8,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "extensao-de-quadril-em-pe",
+    "name": "Extensão de Quadril em Pé",
+    "muscle": "Glúteos",
+    "secondaryMuscles": [
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 7,
+    "instructions": "Mantenha o queixo levemente recolhido e a pelve neutra; faça uma pausa de 1 segundo no topo contraindo fortemente os glúteos sem hiperextender a lombar."
+  },
+  {
+    "id": "swing-completo-com-kettlebell",
+    "name": "Swing Completo com Kettlebell",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": false,
+    "popularity": 6,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "alongamento-de-posterior-de-coxa-deitado",
+    "name": "Alongamento de Posterior de Coxa Deitado",
+    "muscle": "Mobilidade",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Posteriores"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 5,
+    "instructions": "Respire profundamente de forma lenta, mantendo a posição no limite confortável do alongamento sem dor aguda."
+  },
+  {
+    "id": "levantamento-terra-unilateral-com-barra",
+    "name": "Levantamento Terra Unilateral com Barra",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar",
+      "Costas"
+    ],
+    "equipment": "Barra",
+    "unilateral": true,
+    "popularity": 4,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "posicao-do-cachorro-olhando-para-baixo",
+    "name": "Posição do Cachorro Olhando para Baixo",
+    "muscle": "Mobilidade",
+    "secondaryMuscles": [
+      "Lombar"
+    ],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 3,
+    "instructions": "Respire profundamente de forma lenta, mantendo a posição no limite confortável do alongamento sem dor aguda."
+  },
+  {
+    "id": "stiff-unilateral-com-kettlebell-pe-de-apoio",
+    "name": "Stiff Unilateral com Kettlebell (Pé de Apoio)",
+    "muscle": "Posteriores",
+    "secondaryMuscles": [
+      "Glúteos",
+      "Lombar"
+    ],
+    "equipment": "Kettlebell",
+    "unilateral": true,
+    "popularity": 2,
+    "instructions": "Mantenha a coluna neutra e o abdômen contraído; priorize o alongamento controlado dos isquiotibiais e contraia firme na subida."
+  },
+  {
+    "id": "abdominal-bicicleta",
+    "name": "Abdominal Bicicleta",
+    "muscle": "Abdômen",
+    "secondaryMuscles": [],
+    "equipment": "Peso Corporal",
+    "unilateral": false,
+    "popularity": 1,
+    "instructions": "Expire durante a contração, aproximando as costelas da pelve sem puxar o pescoço; mantenha a lombar estabilizada."
+  }
+]

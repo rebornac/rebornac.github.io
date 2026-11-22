@@ -1,0 +1,88 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-app);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.4;
+  min-height: 100dvh;
+  /* clip, not hidden: hidden turns body into a scroll container that,
+     with overscroll-behavior, swallows touch and wheel scrolling */
+  overflow-x: clip;
+}
+
+html {
+  overscroll-behavior-y: none;
+}
+
+button, input, select, textarea {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+  user-select: none;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+.hidden {
+  display: none !important;
+}
+
+.app-shell {
+  max-width: 540px;
+  margin: 0 auto;
+  min-height: 100dvh;
+  position: relative;
+  background: radial-gradient(circle at top center, #0e282d 0%, var(--bg-app) 42%);
+}
+
+.main-view {
+  padding: calc(14px + var(--safe-top)) 16px calc(var(--nav-height) + 42px + var(--safe-bottom));
+}
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0 12px;
+}
+
+.section-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+
+.muted {
+  color: var(--text-secondary);
+}
+
+.accent-text {
+  color: var(--accent);
+}
+
+/* Custom subtle scrollbars */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--bg-surface-3);
+  border-radius: 99px;
+}

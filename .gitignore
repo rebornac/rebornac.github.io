@@ -1,0 +1,7 @@
+# Android signing files must never be published
+*.keystore
+*.jks
+signing-key-info.txt
+*.apk
+*.aab
+.env*
